@@ -8,5 +8,5 @@
 ![alt text](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion/blob/f71bfa1af2486db9b9027e288b7d79fdd03e4011/demo%20images/trajectories.png?raw=true)
 ![alt text](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion/blob/f71bfa1af2486db9b9027e288b7d79fdd03e4011/demo%20images/ett-1.png?raw=true)
 ![alt text](https://github.com/108mk/Random-Walk-Simulation-to-study-Anamolous-Diffusion/blob/f71bfa1af2486db9b9027e288b7d79fdd03e4011/demo%20images/ett-2.png?raw=true)
-## $\left< R^2 \right>\ \rightarrow\ mean\ sqaured\ displacement\ and,\ \ tau \rightarrow\ simulation\ time$
+## $\left< R^2 \right>\ \rightarrow\ mean\ sqaured\ displacement\ and,\ \ t, \xi \rightarrow\ simulation\ time$
 # My first humble contribution to Open-Source!!!
